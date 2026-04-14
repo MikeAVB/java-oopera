@@ -1,3 +1,13 @@
+package ru.practicum.theatre;
+
+import ru.practicum.theatre.persons.Actor;
+import ru.practicum.theatre.persons.Director;
+import ru.practicum.theatre.persons.Gender;
+import ru.practicum.theatre.persons.Person;
+import ru.practicum.theatre.show.Ballet;
+import ru.practicum.theatre.show.Opera;
+import ru.practicum.theatre.show.Show;
+
 public class Theatre {
 
     public static void main(String[] args) {

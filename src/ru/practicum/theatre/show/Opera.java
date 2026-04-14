@@ -1,3 +1,8 @@
+package ru.practicum.theatre.show;
+
+import ru.practicum.theatre.persons.Director;
+import ru.practicum.theatre.persons.Person;
+
 public class Opera extends MusicalShow {
     private int choirSize;
 

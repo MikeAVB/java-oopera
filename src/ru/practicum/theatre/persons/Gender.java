@@ -1,3 +1,5 @@
+package ru.practicum.theatre.persons;
+
 public enum Gender {
     MALE("Мужской"),
     FEMALE("Женский");

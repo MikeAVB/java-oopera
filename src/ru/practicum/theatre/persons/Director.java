@@ -1,3 +1,5 @@
+package ru.practicum.theatre.persons;
+
 import java.util.Objects;
 
 public class Director extends Person {

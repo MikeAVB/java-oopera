@@ -1,3 +1,8 @@
+package ru.practicum.theatre.show;
+
+import ru.practicum.theatre.persons.Actor;
+import ru.practicum.theatre.persons.Director;
+
 import java.util.ArrayList;
 
 public class Show {
